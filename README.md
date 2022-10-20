@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome to my GitHub! I'm Victoria Yang, backend developer 🤗
 
-<!--
-**victoriaum/victoriaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on <b>Java & Spring Web project</b>
+- 🌱 I’m currently learning <b>Algorism</b>
+- 👯 I’m looking to collaborate on <b>TDD project</b>
+- ✉️ Contact Me : ilpyoyang@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### aboutMe.js
+
+```js
+const ilpyo = {
+    callMe: "Ilpyo" | "Vicky" | "Victoria",
+    interests: ["Backend", "JPA", "Metaverse", "Book", "Art", "Dessert"],
+    technologies: {
+        backEnd: ["Java", "Python", "Spring", "Gradle", "JPA", "Junit5"],
+        database: ["MariaDB", "MS SQL Server", "MySQL", "Oracle"],
+        devops: ["AWS(EC2, Route53, ELB, ACM, RDS)"],
+        frontEnd: ["JavaScript", "JQuery", "CSS3", "HTML"],
+        others: ["Git", "GitHub", "GitLab", "Jira","IntelliJ", "VS Code", "Eclipse", "Linux", "Ubuntu"]
+    }
+};
+```
